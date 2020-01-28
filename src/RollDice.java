@@ -33,7 +33,8 @@ public class RollDice {
 			} 
 		if (snakeEyes(a2, a3)) {
 				System.out.println("Snake Eyes!");
-			} else if (boxCars(a2, a3)) {
+			} 
+		if (boxCars(a2, a3)) {
 				System.out.println("Box Cars!!");
 
 			}
